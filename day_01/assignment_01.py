@@ -3,7 +3,9 @@ Name: Yuvraj Pavan Sabale
 Batch: AIML
 Day: 1(9th August 2026)
 Assignment: 1
-Description:
+Description: This assignment introduces the basics of Python programming for AI/ML. 
+It covers data types, operators, loops, conditionals, slicing, and tuple operations.
+The goal is to understand how Python handles values and basic logic used in data processing and model building.
 
 '''
 
