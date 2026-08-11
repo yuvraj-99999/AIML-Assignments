@@ -1,8 +1,8 @@
 '''
 Name: Yuvraj Pavan Sabale
 Batch: AIML
-Day: 1(9th August 2026)
-Assignment: 1
+Day: 2(10th August 2026)
+Assignment: 2
 Description: This assignment focuses on learning core Python operators and how they work in real programs. It includes arithmetic, comparison, logical, and conditional operations with practical examples. 
 The goal is to build a strong base for coding logic and problem solving in AI/ML.
 
